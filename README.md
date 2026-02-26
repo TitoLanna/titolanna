@@ -31,10 +31,3 @@ With 6+ years of experience designing and delivering cloud-native applications, 
 - 🔗 LinkedIn: *(https://www.linkedin.com/in/matthias-otoo-636186131/)*
 
 ---
-
-## ⚡ Engineering Philosophy
-
-Clean code.  
-Scalable systems.  
-Secure by design.  
-Built for production.
