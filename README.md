@@ -23,7 +23,9 @@ With 6+ years of experience designing and delivering cloud-native applications, 
 - Optimizing performance, reliability, and system scalability  
 
 ---
+## 📊 GitHub Stats
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TitoLanna&layout=compact&theme=tokyonight)
 
 ## 📫 How to Reach Me
 
