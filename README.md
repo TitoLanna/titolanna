@@ -1,21 +1,12 @@
 
-<div align="center">
-
-# 👋 Hey, I'm Matthias Anum Otoo
-
+<div align="center">  
+  
 ### Software Engineer | Backend Systems · Distributed Architecture · Cloud · AI
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Systems;Engineering+Distributed+Architectures;Exploring+AI+%26+Machine+Learning;Developing+Secure+Cloud-Native+Applications)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=TitoLanna&color=0e75b6&style=flat-square)
-[![GitHub Followers](https://img.shields.io/github/followers/TitoLanna?label=Followers&style=flat-square&color=0e75b6)](https://github.com/TitoLanna?tab=followers)
-
 </div>
 
----
-
 ## 👨‍💻 About Me
-
 I'm a software engineer with an **M.S. in Computer Science specializing in Artificial Intelligence**, focused on building **scalable, secure, and reliable software systems**.
 
 My experience spans **backend engineering, distributed systems, cloud infrastructure, cybersecurity automation, and applied AI**.
