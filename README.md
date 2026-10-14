@@ -1,34 +1,44 @@
-## Hi there 👋
 
-<!--
-**MathiasAnumOtoo/MathiasAnumOtoo** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
--->
+<div align="center">
 
-# Mathias Anum Otoo  
+# 👋 Hey, I'm Matthias Anum Otoo
+
 ### Software Engineer | Backend Systems · Distributed Architecture · Cloud · AI
 
-I'm a software engineer with an M.S. in Computer Science specializing in Artificial Intelligence, focused on building scalable, secure, and reliable software systems.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Systems;Engineering+Distributed+Architectures;Exploring+AI+%26+Machine+Learning;Developing+Secure+Cloud-Native+Applications)](https://git.io/typing-svg)
 
-My work spans backend engineering, distributed systems, cloud infrastructure, cybersecurity automation, and applied AI.
+![Profile Views](https://komarev.com/ghpvc/?username=TitoLanna&color=0e75b6&style=flat-square)
+[![GitHub Followers](https://img.shields.io/github/followers/TitoLanna?label=Followers&style=flat-square&color=0e75b6)](https://github.com/TitoLanna?tab=followers)
 
-I primarily work with Java, Spring Boot, Python, React, AWS, and Kubernetes, designing everything from event-driven microservices to intelligent search and retrieval systems.
-
-I enjoy understanding how systems work at a fundamental level, solving challenging engineering problems, and turning technical ideas into practical products.
+</div>
 
 ---
 
-## 🔭 What I’m Currently Working On
+## 👨‍💻 About Me
 
-- Building Pueracare, a multi-role childcare management platform using Spring Boot, React, Kafka, and PostgreSQL.
+I'm a software engineer with an **M.S. in Computer Science specializing in Artificial Intelligence**, focused on building **scalable, secure, and reliable software systems**.
 
-- Exploring large language models, retrieval-augmented generation, and information retrieval algorithms.
+My experience spans **backend engineering, distributed systems, cloud infrastructure, cybersecurity automation, and applied AI**.
 
-- Developing secure distributed systems with modern authentication, authorization, and event-driven architectures.
+I primarily work with **Java, Spring Boot, Python, React, AWS, and Kubernetes**, developing everything from event-driven microservices to intelligent search and retrieval systems.
 
-- Improving software reliability through automated testing, monitoring, and CI/CD.
+I enjoy understanding how systems work at a fundamental level, solving challenging engineering problems, and turning complex ideas into practical products.
 
-- Practicing data structures, algorithms, and system design.
+📍 **Location:** Little Rock, Arkansas  
+🎓 **Education:** M.S. Computer Science (AI) — University of South Dakota
+
 ---
+
+## 🔭 What I'm Currently Working On
+
+- 🏗️ **Pueracare:** Building a multi-role childcare management platform using Spring Boot, React, Kafka, and PostgreSQL.
+- 🤖 **AI Engineering:** Exploring large language models, retrieval-augmented generation, and information retrieval algorithms.
+- 🔐 **Security & Distributed Systems:** Developing secure services with authentication, authorization, and event-driven architectures.
+- ☁️ **Cloud & DevOps:** Improving reliability through automated testing, observability, and CI/CD.
+- 🧠 **Algorithms & System Design:** Strengthening problem-solving skills through coding challenges and system architecture.
+
+---
+
 
 ## 💡 Engineering Interests
 
